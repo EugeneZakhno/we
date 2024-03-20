@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+<img width="700" alt="2024conpayTestAcsHint" src="https://github.com/EugeneZakhno/we/assets/30446748/95236245-de56-4107-b597-f35cac791aa6">
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
